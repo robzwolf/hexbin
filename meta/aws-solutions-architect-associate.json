@@ -1,0 +1,10 @@
+{
+  "name": "AWS Solutions Architect Associate",
+  "author": "Amazon Web Services",
+  "license": "",
+  "vector": "",
+  "description": "AWS Solutions Architect Associate",
+  "raster": "/hexagons/aws-solutions-architect-associate.png",
+  "filename": "meta/aws-solutions-architect-associate.json",
+  "order_online_url": ""
+}

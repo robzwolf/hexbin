@@ -1,0 +1,10 @@
+{
+  "name": "AWS Developer Associate",
+  "author": "Amazon Web Services",
+  "license": "",
+  "vector": "",
+  "description": "AWS Developer Associate",
+  "raster": "/hexagons/aws-developer-associate.png",
+  "filename": "meta/aws-developer-associate.json",
+  "order_online_url": ""
+}

@@ -1,0 +1,10 @@
+{
+  "name": "AWS Cloud Practitioner",
+  "author": "Amazon Web Services",
+  "license": "",
+  "vector": "",
+  "description": "AWS Cloud Practitioner",
+  "raster": "/hexagons/aws-cloud-practitioner.png",
+  "filename": "meta/aws-cloud-practitioner.json",
+  "order_online_url": ""
+}
