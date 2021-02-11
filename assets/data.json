@@ -28,5 +28,15 @@
     "raster": "/hexagons/aws-solutions-architect-associate.png",
     "filename": "meta/aws-solutions-architect-associate.json",
     "order_online_url": ""
+  },
+  {
+    "name": "HashiCorp Certified: Terraform Associate",
+    "author": "HashiCorp",
+    "license": "",
+    "vector": "",
+    "description": "HashiCorp Certified: Terraform Associate",
+    "raster": "/hexagons/hashicorp-terraform.png",
+    "filename": "meta/hashicorp-terraform.json",
+    "order_online_url": ""
   }
 ]

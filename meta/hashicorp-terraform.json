@@ -1,0 +1,10 @@
+{
+  "name": "HashiCorp Certified: Terraform Associate",
+  "author": "HashiCorp",
+  "license": "",
+  "vector": "",
+  "description": "HashiCorp Certified: Terraform Associate",
+  "raster": "/hexagons/hashicorp-terraform.png",
+  "filename": "meta/hashicorp-terraform.json",
+  "order_online_url": ""
+}
